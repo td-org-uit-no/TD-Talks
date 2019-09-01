@@ -1,4 +1,4 @@
-# TD-Talks 28. August 2019
+# TD-Talks 29. August 2019
 
 ## Presentations
 - [Jon Johansen](https://github.com/jonjohansen): [The agony of picking the "better" text-editor](./text-editor-talk.pdf)
