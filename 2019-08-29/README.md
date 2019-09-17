@@ -2,5 +2,5 @@
 
 ## Presentations
 - [Jon Johansen](https://github.com/jonjohansen): [The agony of picking the "better" text-editor](./text-editor-talk.pdf)
-- [Peter Munch Ellingsen](https://github.com/PMunch): [Bash bang commands: turn your terminal productivity to 11](https://peterme.net)
+- [Peter Munch Ellingsen](https://github.com/PMunch): [Bash bang commands: turn your terminal productivity to 11](https://peterme.net/welcome-to-a-brief-explanation-of-history.html)
 - [Fredrik Høisæther Rasch](https://github.com/couven92): [Terminal - Basic day-to-day command-line usage]()
