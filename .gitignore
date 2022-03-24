@@ -1,0 +1,7 @@
+
+# exclude specific arrangement notes
+*.talk-note*.md
+
+# exclude pizza orders anywhere in repository
+**pizza-buy-order.pdf
+
